@@ -1,0 +1,15 @@
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\obj\Debug\net6.0\task10.csproj.AssemblyReference.cache
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\obj\Debug\net6.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\obj\Debug\net6.0\task10.AssemblyInfoInputs.cache
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\obj\Debug\net6.0\task10.AssemblyInfo.cs
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\obj\Debug\net6.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\bin\Debug\net6.0\task10.exe
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\bin\Debug\net6.0\task10.deps.json
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\bin\Debug\net6.0\task10.runtimeconfig.json
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\bin\Debug\net6.0\task10.dll
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\bin\Debug\net6.0\task10.pdb
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\obj\Debug\net6.0\task10.dll
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\obj\Debug\net6.0\refint\task10.dll
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\obj\Debug\net6.0\task10.pdb
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\obj\Debug\net6.0\task10.genruntimeconfig.cache
+C:\Users\Мвидео\OneDrive\Документы\GeekBrains\Разработчик\3 Знакомство с языками программирования\2 семинар\task10\obj\Debug\net6.0\ref\task10.dll
